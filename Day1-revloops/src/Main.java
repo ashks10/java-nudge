@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-        /* 1. Write a program to take two integers and print their sum, difference, and product.
+        // 1. Write a program to take two integers and print their sum, difference, and product.
 
                 Scanner scanner = new Scanner(System.in);
                     System.out.println("Enter number 1?");
@@ -21,9 +21,9 @@ public class Main {
                         int prod = num1 * num2;
                         System.out.println(prod);
 
-                                                            */
 
-        /* 2. Convert temperature from Celsius to Fahrenheit.
+
+        // 2. Convert temperature from Celsius to Fahrenheit.
 
                 Scanner scanner = new Scanner(System.in);
                 System.out.println("Enter the value in Degree Cels.");
@@ -32,9 +32,9 @@ public class Main {
                     double fahren = 9/5f * degree + 32.0;
                     System.out.printf("%.2f",fahren);
 
-                                                            */
 
-        /* 3. Swap two numbers without using a third variable.
+
+        // 3. Swap two numbers without using a third variable.
 
                 int age1 = 4;
                 int age2 = 6;
@@ -45,17 +45,17 @@ public class Main {
 
                 System.out.print("a = "+age1+" b = "+age2);
 
-                                                             */
 
-        /* 4. Input a float and cast it to an integer manually, then print both.
+
+        // 4. Input a float and cast it to an integer manually, then print both.
 
                 float num = 10.34f;
                 int casting = (int) num;
                 System.out.println(casting);
 
-                                                            */
 
-        /* 5. Demonstrate implicit and explicit type casting with at least 3 examples.
+
+        // 5. Demonstrate implicit and explicit type casting with at least 3 examples.
 
                 // byte -> short -> int -> long -> float -> double    #automatic (implicit)    #manual(Explicit)
                 int a =  5;
@@ -66,9 +66,9 @@ public class Main {
                 int explicit = (int) d;
                 System.out.println(d);
 
-                                                            */
 
-        /* 6. Write a program to evaluate the expression: ((a + b) * c) / d with user input.
+
+        // 6. Write a program to evaluate the expression: ((a + b) * c) / d with user input.
 
                 Scanner scanner = new Scanner(System.in);
                 System.out.println("a?");
@@ -83,9 +83,9 @@ public class Main {
                 float exp =  ((a+b) *c) /(float)d;
                 System.out.println(exp);
 
-                                                            */
 
-        /* 7. Use increment (++) and decrement (--) operators in a small calculation and print steps.
+
+        // 7. Use increment (++) and decrement (--) operators in a small calculation and print steps.
 
                 int a = 4;
 
@@ -102,64 +102,26 @@ public class Main {
                     System.out.println();
                 }
 
-                                                            */
+
 
         // 8. Check if a string is a palindrome.
 
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("What was it ?");
-        String name = scanner.nextLine();
-        String reversed = "";
+                Scanner scanner = new Scanner(System.in);
+                System.out.println("What was it ?");
+                String name = scanner.nextLine();
+                String reversed = "";
 
-        for(int i = name.length()-1; i>=0 ; i--){
-            reversed += name.charAt(i);
-        }
+                for(int i = name.length()-1; i>=0 ; i--){
+                    reversed += name.charAt(i);
+                }
 
-        if (name.equals(reversed)){
-            System.out.println("palindrome");
-        }else{
-            System.out.println("Not a palindrome");
-        }
+                if (name.equals(reversed)){
+                    System.out.println("palindrome");
+                }else{
+                    System.out.println("Not a palindrome");
+                }
 
 
     }
 
 }
-
-
-
-
-
-/*
-
-
-
-
-
-
-
-Concatenate two strings manually using a loop (no .concat()).
-
-Count vowels in a given string.
-
-        🔹 5. Conditionals (if, if-else, switch)
-Check if a number is positive, negative, or zero.
-
-Take marks for 3 subjects and print pass/fail using average.
-
-Write a simple calculator using switch with +, -, *, /.
-
-        🔹 6. Loops (for, while, do-while)
-Print the first n Fibonacci numbers.
-
-Print a pattern of stars in a pyramid shape.
-
-Count digits of a given number using a loop.
-
-Reverse a number using a while loop.
-
-🔹 7. Mixed Logic Practice
-Find the GCD (Greatest Common Divisor) of two numbers using Euclidean algorithm.
-
-Check whether a number is a prime or not.
-*/
