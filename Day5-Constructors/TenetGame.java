@@ -40,6 +40,7 @@ public class TenetGame {
         while(!game.isCorrectnumber()){
             System.out.println("guess the number again");
             game.userinput(scanner.nextInt());
+            game.isCorrectnumber();
         }
     }
 }
