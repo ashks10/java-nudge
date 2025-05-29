@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f2707e4-316e-4192-969d-0b64e213c70c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Day5-Constructors/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-Constructors/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-Constructors/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-Constructors/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-Constructors/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-Constructors/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-Constructors/TenetGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-Constructors/TenetGame.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ashks10"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ashks10/java-nudge.git",
+    "accountId": "9f84f7e9-86b8-4611-b9e8-b64aaaa3f75a"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2x4DGM6W5zld6zHFu8WjrLbVMlw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/Github/JAVA-nudge/Day6-interfaces",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f2707e4-316e-4192-969d-0b64e213c70c" name="Changes" comment="" />
+      <created>1747188356057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747188356057</updated>
+    </task>
+    <servers />
+  </component>
+</project>

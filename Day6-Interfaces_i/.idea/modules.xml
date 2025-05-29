@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/.idea/Day6-interfaces.iml" filepath="$PROJECT_DIR$/.idea/Day6-interfaces.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Day1-revloops/Day1-revloops.iml" filepath="$PROJECT_DIR$/Day1-revloops/Day1-revloops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA-nudge.iml" filepath="$PROJECT_DIR$/.idea/JAVA-nudge.iml" />
+>>>>>>> f6716a7cc76450a4fb81ce3056ccae11fa9637b4
+    </modules>
+  </component>
+</project>
